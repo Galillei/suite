@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=7-Zip
+Comment=PlayOnLinux
+Type=Application
+Exec=/usr/share/playonlinux/playonlinux --run "7-Zip" %F
+Icon=/home/artsem/.PlayOnLinux//icones/full_size/7-Zip
+Name[fr_FR]=7-Zip

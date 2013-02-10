@@ -1,0 +1,5 @@
+repo: 85d529d668a2a2bb0f3f3a9ae2d3249fb60f5dd6
+node: e7bcfb92bc581eff4887cbc21f42059129c9c951
+branch: lessons
+latesttag: null
+latesttagdistance: 17
